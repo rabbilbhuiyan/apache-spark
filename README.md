@@ -1,5 +1,5 @@
 # Machine learning process with Apache spark
-#### This learning project aims to develop machine learning model using Spark. The project covers the following sections:
+- This learning project aims to develop machine learning model using Spark. The project covers the following sections:
     - Spark DataFrame
     - Data pre-process using Spark's MLlib 
       - Numeric data
